@@ -2,7 +2,6 @@ import { View, StyleSheet, StatusBar, Text } from "react-native";
 import Colors from "../assets/Themes/colors";
 import { useContext } from "react";
 
-
 import { Locator } from "../components";
 
 import MapView from "react-native-maps";
